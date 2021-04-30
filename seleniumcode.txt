@@ -1,0 +1,3 @@
+Wrte a command for opening the brower in the selenium.
+System.setProperty("webdriver.chrome.driver","D:\\ChromeDriver\\chromedriver.exe");  
+webdriver driver = new Chromedriver();
