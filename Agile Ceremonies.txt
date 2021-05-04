@@ -1,0 +1,10 @@
+Agile ceremonies are mainly divided into 5 steps .
+1. backlog groomimg : In Backlog grooming session, sprint items which are ready and developers and testers are groomed over the requirements ,By product owner.
+
+2. Spring planning : In  the sprint planning This scrum meeting happens at the beginning of a new sprint and is designed for the Product Owner and Development Team to meet and review the prioritized Product Backlog. Through a series of discussions and negotiations, the team should ultimately create a sprint backlog that contains all items they are committing to complete at the end of the sprint. This is called the sprint goal
+
+3. daily stand ups: In the daily stand up meeting , the action items on which you are working on you have give an update. it is for 5 min long.
+
+4. sprint review : In sprint review , the sprint items which you are working on are moved to diffent levels and tasks  which are in progress has been moved by respective team members.
+
+5.Sprint retrospective: how was the current sprint went  , what went wrong in this sprint which things we can make better for next Sprint. all these thing are getting discussed in this sprint retrospective meeting.
