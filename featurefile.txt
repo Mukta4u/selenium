@@ -1,0 +1,9 @@
+Feature file is used in BDD framework in cucumber .
+Gharkin language is used in feature file. it starts with keyword when  scenario, feature  , when then and AND keyword plus we can specify 
+background keyword in feature file . A Feature File is an entry point to the Cucumber tests. This is a file where you will describe your tests in Descriptive language (Like English). It is an essential part of Cucumber, as it serves as an automation test script as well as live documents. A feature file can contain a scenario or can contain many scenarios in a single feature file but it usually contains a list of scenarios.
+Example includes login feature .
+Scenario:login feature test
+feature : to test the login functionality
+when User hits the URL the website should open
+AND User sees the screen snd two fields username and password should display
+Then User enter correct username and password and clicks on Sign in button so user should be able to login with valid credentials.

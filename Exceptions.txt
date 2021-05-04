@@ -1,0 +1,7 @@
+Exceptions:
+Below is the list of exceptions i came across when working with the PPO module in recent project.
+NoSuchElementException	This Exception occurs if an element could not be found.
+NoSuchFrameException	This Exception occurs if the frame target to be switched to does not exist.
+NoAlertPresentException	This Exception occurs when you switch to no presented alert.
+NoSuchWindowException	This Exception occurs if the window target to be switch does not exist.
+StaleElementReferenceException	This Selenium exception occurs happens when the web element is detached from the current DOM.
