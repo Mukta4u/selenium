@@ -1,0 +1,12 @@
+Annotations in testng
+TestNG Annotations are used to control the next method to be executed in the test script.
+ TestNG annotations are defined before every method in the test code.
+@BeforeSuite:It will run only once, before all tests in the suite are executed.
+@BeforeTest:This will be executed before the first @Test annotated method. It can be executed multiple times before the test case.
+@BeforeClass:This will be executed before first @Test method execution. It will be executed one only time throughout the test case.
+@BeforeMethod:This will be executed before every @test annotated method.
+
+@AfterMethod:This will be executed after every @test annotated method.
+@AfterClass:This will be executed before first @Test method execution. It will be executed one only time throughout the test case.
+@AfterTest:A method with this annotation will be executed when all @Test annotated methods complete the execution of those classes inside the <test> tag in the TestNG.xml file.
+@aftersuite:A method with this annotation will run once after the execution of all tests in the suite is complete.
